@@ -212,7 +212,7 @@
   <project path="frameworks/support" name="TestFork3/android_frameworks_support" />
   <project path="frameworks/testing" name="TestFork3/android_frameworks_testing" />
   <project path="frameworks/wilhelm" name="TestFork3/android_frameworks_wilhelm" />
-  <project path="gdk" name="shendu/android_gdk" />
+  <project path="gdk" name="TestFork3/android_gdk" />
   <project path="hardware/broadcom/wlan" name="TestFork3/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="TestFork3/android_hardware_cm" />
   <project path="hardware/invensense" name="TestFork3/android_hardware_invensense" />
