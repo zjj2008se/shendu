@@ -214,6 +214,7 @@
   <project path="frameworks/wilhelm" name="TestFork3/android_frameworks_wilhelm" />
   <project path="gdk" name="TestFork3/android_gdk" />
   <project path="hardware/broadcom/wlan" name="TestFork3/android_hardware_broadcom_wlan" />
+  <project path="hardware/atheros/wlan" name="TestFork3/android_hardware_atheros_wlan" />
   <project path="hardware/cm" name="TestFork3/android_hardware_cm" />
   <project path="hardware/invensense" name="TestFork3/android_hardware_invensense" />
   <project path="hardware/libhardware" name="TestFork3/android_hardware_libhardware" />
@@ -228,6 +229,7 @@
   <project path="hardware/ti/omap4xxx" name="TestFork3/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="TestFork3/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="TestFork3/android_hardware_ti_wpan" />
+  <project path="hardware/samsung" name="TestFork3/android_hardware_samsung" />
   <project path="libcore" name="TestFork3/android_libcore" />
   <project path="libnativehelper" name="TestFork3/android_libnativehelper" />
   <project path="ndk" name="TestFork3/android_ndk" />
@@ -322,6 +324,7 @@
   <project path="system/media" name="TestFork3/android_system_media" />
   <project path="system/netd" name="TestFork3/android_system_netd" />
   <project path="system/security" name="TestFork3/android_system_security" />
+  <project path="system/su" name="TestFork3/android_system_su" />
   <project path="system/vold" name="TestFork3/android_system_vold" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
