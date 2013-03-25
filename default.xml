@@ -37,7 +37,7 @@
   <project path="device/google/accessory/demokit" name="ShenduOS/android_device_google_accessory_demokit" groups="device" />
   <project path="device/huawei/c8812" name="ShenduOS/android_device_huawei_c8812" />
   <project path="device/huawei/u8818" name="ShenduOS/android_device_huawei_u8818" />
-  <project path="device/huawei/msm7x27a-common" naem="ShenduOS/android_device_huawei_msm7x27a-common" />
+  <project path="device/huawei/msm7x27a-common" name="ShenduOS/android_device_huawei_msm7x27a-common" />
   <project path="device/sample" name="ShenduOS/android_device_sample" groups="device" />
   <project path="external/aac" name="ShenduOS/android_external_aac" />
   <project path="external/android-mock" name="ShenduOS/android_external_android-mock" />
