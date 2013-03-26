@@ -35,9 +35,21 @@
   <project path="device/generic/goldfish" name="ShenduOS/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="ShenduOS/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="ShenduOS/android_device_google_accessory_demokit" groups="device" />
+  <!--
   <project path="device/huawei/c8812" name="ShenduOS/android_device_huawei_c8812" />
   <project path="device/huawei/u8818" name="ShenduOS/android_device_huawei_u8818" />
   <project path="device/huawei/msm7x27a-common" name="ShenduOS/android_device_huawei_msm7x27a-common" />
+  <project path="device/huawei/c8812e" name="ShenduOS/android_device_huawei_c8812e" />
+  <project path="device/huawei/u8825d" name="ShenduOS/android_device_huawei_u8825d" />
+  <project path="device/huawei/u8860" name="ShenduOS/android_device_huawei_u8860" />
+  <project path="device/huawei/c8860e" name="ShenduOS/android_device_huawei_c8860e" />
+  <project path="device/huawei/u8800pro" name="ShenduOS/android_device_huawei_u8800pro" />
+  <project path="device/huawei/u9200" name="ShenduOS/android_device_huawei_u9200" />
+  <project path="device/huawei/u9500" name="ShenduOS/android_device_huawei_u9500" />
+  <project path="device/lge/p970" name="ShenduOS/android_device_lge_p970" />
+  <project path="device/xiaomi/mione-plus" name="ShenduOS/android_device_xiaomi_mione-plus" />
+  <project path="device/xiaomi/msm8660-common" name="ShenduOS/android_device_xiaomi_msm8660-common" />
+  --!>
   <project path="device/sample" name="ShenduOS/android_device_sample" groups="device" />
   <project path="external/aac" name="ShenduOS/android_external_aac" />
   <project path="external/android-mock" name="ShenduOS/android_external_android-mock" />
@@ -275,6 +287,13 @@
   <project path="packages/apps/Trebuchet" name="ShenduOS/android_packages_apps_Trebuchet" />
   <project path="packages/apps/VideoEditor" name="ShenduOS/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="ShenduOS/android_packages_apps_VoiceDialer" />
+  <project path="packages/apps/FastInternet" name="ShenduOS/android_packages_apps_FastInternet" />
+  <project path="packages/apps/FileManager" name="ShenduOS/android_packages_apps_FileExplorer" />
+  <project path="packages/apps/Flashlight" name="ShenduOS/android_packages_apps_Flashlight" />
+  <project path="packages/apps/Notes" name="ShenduOS/android_packages_apps_Notes" />
+  <project path="packages/apps/ShenduLauncher" name="ShenduOS/android_packages_apps_ShenduLauncher" />
+  <project path="packages/apps/ShenduPermission" name="ShenduOS/android_packages_apps_ShenduPermission" />
+  <project path="packages/apps/Update" name="ShenduOS/android_packages_apps_Update" />
   <project path="packages/experimental" name="ShenduOS/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="ShenduOS/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="ShenduOS/android_packages_inputmethods_OpenWnn" />
@@ -332,6 +351,11 @@
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="vendor/cm" name="ShenduOS/android_vendor_cm" />
+  <!--
+  <project path="vendor/huawei" name="ShenduOS/android_vendor_huawei" />
+  <project path="vendor/lge" name="ShenduOS/android_vendor_lge" />
+  <project path="vendor/xiaomi" name="ShenduOS/android_vendor_xiaomi" />
+  --!>
   <project path="vendor/qcom/opensource/v8" name="ShenduOS/android_vendor_qcom_opensource_v8" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="ShenduOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="ShenduOS/android_vendor_tmobile_libs_com.tmobile.themes" />
