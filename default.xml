@@ -289,6 +289,7 @@
   <project path="packages/apps/FileManager" name="ShenduOS/android_packages_apps_FileExplorer" />
   <project path="packages/apps/Flashlight" name="ShenduOS/android_packages_apps_Flashlight" />
   <project path="packages/apps/Notes" name="ShenduOS/android_packages_apps_Notes" />
+  <project path="packages/apps/SHenduTheme" name="ShenduOS/android_packages_apps_ShenduTheme" />
   <project path="packages/apps/ShenduLauncher" name="ShenduOS/android_packages_apps_ShenduLauncher" />
   <project path="packages/apps/ShenduPermission" name="ShenduOS/android_packages_apps_ShenduPermission" />
   <project path="packages/apps/Update" name="ShenduOS/android_packages_apps_Update" />
