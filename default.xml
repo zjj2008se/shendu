@@ -283,6 +283,7 @@
   <project path="packages/apps/SpeechRecorder" name="ShenduOS/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="ShenduOS/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="ShenduOS/android_packages_apps_Tag" />
+  <project path="packages/apps/Trebuchet" name="ShenduOS/android_packages_apps_Trebuchet" />
   <project path="packages/apps/VideoEditor" name="ShenduOS/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="ShenduOS/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/FastInternet" name="ShenduOS/android_packages_apps_FastInternet" />
