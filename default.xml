@@ -39,6 +39,7 @@
   <project path="device/huawei/c8812" name="ShenduOS/android_device_huawei_c8812" />
   <project path="device/huawei/u8818" name="ShenduOS/android_device_huawei_u8818" />
   <project path="device/huawei/msm7x27a-common" name="ShenduOS/android_device_huawei_msm7x27a-common" />
+  <project path="device/huawei/msm7x30-common" name="ShenduOS/android_device_huawei_msm7x30-common" />
   <project path="device/huawei/c8812e" name="ShenduOS/android_device_huawei_c8812e" />
   <project path="device/huawei/u8825d" name="ShenduOS/android_device_huawei_u8825d" />
   <project path="device/huawei/u8860" name="ShenduOS/android_device_huawei_u8860" />
